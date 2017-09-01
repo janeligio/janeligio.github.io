@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/scifi.jpg
-title: Micromouse
+title: Save The Ship
 permalink: projects/micromouse
 date: 2016
 labels:
