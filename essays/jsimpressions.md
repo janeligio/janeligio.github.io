@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Igniting the fire
+title: Bitter Sweet Love for Javascript
 date: 2017-09-01
 labels:
   - Javascript
