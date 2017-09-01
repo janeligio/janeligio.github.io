@@ -36,8 +36,7 @@
     {
       "name": "Web Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
@@ -48,6 +47,8 @@
     {
       "name": "Sports",
       "keywords": [
+        "Soccer",
+        "Basketball"
       ]
     }
   ],
@@ -81,9 +82,9 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-26",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.85",
       "courses": [
       ]
     }
@@ -143,16 +144,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2016-2017",
+      "awarder": "Dean of College of Natural Sciences",
+      "summary": "Maintaining a high grade point average for the semesters of Fall 2016 and Spring 2017"
     }
   ],
   "references": [
