@@ -1,24 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/sudoku.jpg
+title: Sudoku Solver
 permalink: projects/vacay
-date: 2015
+date: 2017
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Recursion
+summary: A program that finds a solution to a sudoku I made in ICS 211.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+This program I was tasked to create involved a deeper understanding of how to use different methods to solve problems, namely, recursion. The algorithm took a 2-dimensional array as an input and outputted, in text, a possible solution to the sudoku. It was done through brute-force. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Although this project was difficult to implement, the main take-away was the analysis of the algorithm. As I learned more and more about how to dissect a piece of code, it brought more insight into how I should actually go about solving a problem. The algorithm in question was an extremely inefficient algorithm and even a small input of n would stall the program.
