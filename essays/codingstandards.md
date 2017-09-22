@@ -11,21 +11,14 @@ labels:
 ---
 Do coding standards contribute to the quality of code? Is it important enough to stress others to improve upon it? Probably. But how important?
 
-Consider this line of code. 
+Consider this line of code: 
 ```for (let i = 0; i < arr.length; i++) {
     //do something
     }```
+Does it upset you? Does it make you feel annoyed at how there are much better ways to go about looping nowadays? If it doesn't, you're in the majority. Sure, I'll say that underscore is an incredibly helpful library that you can use for many things. However, all these developments in new library and new syntax makes everything so saturated. Of course you can argue that it's only to make things better but is it as beneficial as having to learn new technologies every year? 
 
-So, what the hell is ECMAScript 6 anyways? Some sort of skin condition? Or JSON? It’s still Javascript, right? I still find myself 
-struggling with some of the terminology and syntax in Javascript. When to use ```var``` (if at all), ```let```, ```const```. 
-Some part of me is scared this will come back to haunt me big time. Like how to create a function or an object. Apparently,
-there’s more than one way. With all the updated versions, I hesitate to touch a book published even a year ago. Though I think
-I’ll get more comfortable as I continue to code in the language and learn what’s right, wrong, and what’s better.
+Java and C are languages that remain relatively unchanged in the may years they have been in use. You read a book on C published 30 years ago and it's still as valuable today as it was then. Yet that doesn't diminish its value as a programming language, in fact, it makes it more valuable. A language that you can use without such a violatile nature. I believe it is more beneficial to have one super-duper good language from the start. 
 
-<img class="ui tiny left circular floated image" src="../images/frustration.jpg">
+Javascript actually has a history for having an ugly side. That's why there are books published such as [this](http://javascript.crockford.com/) one. It wasn't until later on that the language became the king of the web. But now that everyone's embraced it, everyone wants to make their own damn library. I don't want to downplay the importance of a lot of these libraries because some are used on the biggest websites in the world. My main target are the ones that are at most gonna be used by tens of.. people. There's too much concern for the little stuff like arrow functions and for loops, when we should be more concerned about  
 
-Syntax has already stumped me. After the first WOD, I realized I need a bit more practice…because, sadly, I DNFed. It wasn’t just that
-I DNFed, it was the way I DNFed. I wrote the code I thought was correct within a couple of minutes, I go to run it and I get a nasty
-“UnexpectedSyntax Error }”. I spent ¾ of the time just trying to figure out what was syntactically wrong with my code. I went line by
-line like a robot desperately trying to find a missing semicolon or an unclosed curly brace. Nothing. Eight minutes passed and I was
-prompted to stop. I was fuming because my code looked exactly like how it was solved after the WOD. That’s life, I suppose. 
+
