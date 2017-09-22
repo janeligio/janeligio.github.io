@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Untitled
+title: The Good, The Bad, and The Lazy
 date: 2017-09-21
 labels:
   - Javascript
