@@ -7,13 +7,14 @@ date: 2017-09-21
 labels:
   - Javascript
   - Coding Standards
+  - ESLint
 ---
-I’ve had some prior experience to Javascript before but that was mostly self-taught with some bits were probably misinformation. 
-I was glad to see  a guideline we could follow to learn this expressive language. Learning more about Javascript, you see a complete 
-difference compared to language like Java. Things were looser and you were allowed to do more things. Java was very hand-holdy, which
-I appreciated at first, when starting to learn it. As I got more into Javascript I realized how frustrating it is to code in Java when 
-you’ve started to code in other languages. Everything you write must be explicit and all types must match and everything has to conform
-with the syntax rules, otherwise, all hell breaks loose.
+Do coding standards contribute to the quality of code? Is it important enough to stress others to improve upon it? Probably. But how important?
+
+Consider this line of code. 
+```for (let i = 0; i < arr.length; i++) {
+    //do something
+    }```
 
 So, what the hell is ECMAScript 6 anyways? Some sort of skin condition? Or JSON? It’s still Javascript, right? I still find myself 
 struggling with some of the terminology and syntax in Javascript. When to use ```var``` (if at all), ```let```, ```const```. 
