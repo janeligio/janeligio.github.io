@@ -1,0 +1,11 @@
+---
+layout: essay
+type: essay
+title: "Meteor Gotchas"
+date: 2017-10-19
+labels:
+  - Software Engineering
+  - Meteor
+---
+
+One problem that I have encountered in starting the digits project was getting the darn thing to install. As I started digits Part I it seemed pretty straightforward. I watched the WOD first and was confident I could do it on my own. However before the real part of the WOD started there was a command we were to run. We were told to invoke "meteor --settings ../config/settings.development.json." I thought nothing of it and pasted it into the command line. That's when the proverbial poop hit the fan. I'm not a patient person but I tested myself for a solid 10 minutes as I saw a "Extracting Meteor 5.2.1.1" and "Downloading Meteor 5.2.1.1 (or whatever version it was). That's when I (thought) I knew there was something wrong with my application. So I quickly went to google in hopes of finding my solution. I found out many people were having the same issue as me. It was something to do with the version number being incompatible with the project version. I had thought that it was something to do with us downloading the zip file directly into the directory with doing a "meteor create app" using our version of meteor. So I tried deleting the contents of the meteor-application-template and run a "meteor create app" in the digits directory. After I pasted the contents of the meteor-application-template back in. I did a meteor run and the same thing happened. It was a never-ending loading screen oscillating with the messages "Downloading blah blah..." or "Extracting blah blah...". So I put it off until the next day to do it in the dumb hopes of my computer just somehow fixing the problem by itself. The next day I sat down, scared to look at the command line for that loading screen and lo and behold, the same thing happens. But that wasn't the end of it. Google hasn't helped me nor my own self-diagostic ability. I had a lot of time in my hands so I just decided to wait however long. So I did. And it worked. It was about 20 minutes until the message changed from "Downloading" or "Extracting" to "Started Meteor". It was then that I realized that my computer wasn't as powerful as it I think it is and I should most likely invest in one with more RAM.
