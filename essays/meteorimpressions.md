@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Meteor Reflection Essay
+title: Meteors and Asteroids
 date: 2017-10-26
 labels:
   - Meteor
