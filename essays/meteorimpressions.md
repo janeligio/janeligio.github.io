@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Meteors and Asteroids
+title: Meteors: A JavaScript Web Framework
 date: 2017-10-26
 labels:
   - Meteor
