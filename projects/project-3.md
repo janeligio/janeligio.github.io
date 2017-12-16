@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/leaf.png
 title: Taste Tea
-permalink: projects/cotton
+permalink: projects/tastetea
 date: 2017
 labels:
   - Javascript
