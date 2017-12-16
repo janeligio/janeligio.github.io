@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/scifi.jpg
 title: Save The Ship
-permalink: projects/micromouse
+permalink: projects/scifi
 date: 2016
 labels:
   - Java

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sudoku.jpg
 title: Sudoku Solver
-permalink: projects/vacay
+permalink: projects/sudoku
 date: 2017
 labels:
   - Java

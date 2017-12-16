@@ -6,7 +6,7 @@ title: Taste Tea
 permalink: projects/tastetea
 date: 2017
 labels:
-  - Javascript
+  - JavaScript
   - HTML
   - CSS
 summary: A website I started to develop during summer of 2017.
