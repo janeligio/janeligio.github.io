@@ -6,7 +6,7 @@
     "email": "jeligio@hawaii.edu",
     "phone": "",
     "website": "https://janeligio.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am a UH Manoa alumnus with a B.S. in Computer Science.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -34,21 +34,30 @@
   },
   "interests": [
     {
-      "name": "Web Development",
-      "keywords": [
-        
-      ]
-    },
-    {
-      "name": "Web Design",
+      "name": "JavaScript",
       "keywords": [
       ]
     },
     {
+      "name": "React",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Open Source",
+      "keywords": [
+      ]
+    },    {
       "name": "Sports",
       "keywords": [
         "Soccer",
-        "Basketball"
+        "Basketball",
+        "MMA"
       ]
     }
   ],
@@ -57,10 +66,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java",
         "Javascript",
-        "HTML",
-        "CSS"
+        "React",
+        "Node.js",
+        "Express",
+        "Socket.io",
+        "Java",
+        "HTML5",
+        "CSS3"
       ]
     },
     {
@@ -69,8 +82,7 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "Git/GitHub",
-        "Brackets",
+        "Git",
         "IntelliJ"
       ]
     }
@@ -78,18 +90,22 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2016-08-26",
-      "endDate": "Present",
-      "gpa": "3.85",
+      "endDate": "2020-12-18",
+      "gpa": "3.62",
       "courses": [
-        "ICS 111 - Intro to Programming",
-        "ICS 141 - Discrete Mathematics I",
-        "ICS 211 - Data Structures",
-        "ICS 241 - Discrete Mathematics II",
-        "ICS 311 - Algorithms",
-        "ICS 314 - Software Engineering"
+        "Discrete Mathematics I",
+        "Discrete Mathematics II",
+        "Data Structures",
+        "Algorithms",
+        "Software Engineering",
+        "Software Engineering II",
+        "Operating Systems",
+        "Data Networks",
+        "AI Programming",
+        "Assembly Programming"
       ]
     }
   ],
@@ -122,7 +138,7 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2016-2017",
+      "date": "Fall 2016, Spring 2017, Fall 2017, Spring 2019, Fall 2019",
       "awarder": "Dean of College of Natural Sciences",
       "summary": "Maintaining a high grade point average for the semesters of Fall 2016 and Spring 2017"
     }
